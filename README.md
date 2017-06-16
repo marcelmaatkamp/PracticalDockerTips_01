@@ -1,6 +1,6 @@
 # Practical Docker Tips
 
-## Episode 01: ""
+## Episode 01: "Introduction"
 
 ## About
 
